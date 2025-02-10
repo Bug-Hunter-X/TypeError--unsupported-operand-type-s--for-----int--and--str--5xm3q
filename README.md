@@ -1,0 +1,1 @@
+This repository demonstrates a common Python error: TypeError: unsupported operand type(s) for +: 'int' and 'str'. The error arises when trying to calculate the average of a list containing both numbers and strings. The bug.py file contains the erroneous code, while bugSolution.py provides the corrected version.
